@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:store_manager/login/login_screen.dart';
+import 'package:store_manager/screens/login/login_screen.dart';
 
-void main() {
+void main() async{
   runApp(MyApp());
 }
 
